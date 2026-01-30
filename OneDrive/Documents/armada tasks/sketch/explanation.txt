@@ -1,5 +1,0 @@
-For this assignment, I analyzed YouTube’s homepage by breaking it down into major sections. I first identified the Header, which contains the YouTube logo, search bar, and profile icon. Below the header is the Category Bar with tabs like “All,” “Gaming,” “Music,” and “Valorant.” On the left is the Sidebar with links to Home, Subscriptions, and Library. The Main Content area displays the video grid with thumbnails, titles, and channel names, and the Footer contains additional links and information.
-
-Within each major section, I also identified smaller elements. For example, in the Header, the logo, search bar, and profile icon are individual components. In the Main Content area, each video block includes a thumbnail, title, channel, and view count. Breaking the page down into these sections helped me see how the design is structured and how the elements are organized.
-
-By sketching the layout and labeling each block, I learned how to visualize a webpage as separate, manageable pieces. This exercise made it easier to understand the flow of the page and will help me plan my layouts more efficiently when coding in future projects.
